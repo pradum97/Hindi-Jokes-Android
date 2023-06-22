@@ -1,0 +1,2 @@
+rootProject.name = "Hindi Jokes"
+include ':app'
